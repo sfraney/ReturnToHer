@@ -3,8 +3,39 @@ languageCode: "en-us"
 title: "Return To Her"
 theme: "hugo-profile"
 
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /posts
+      weight: 1
+    - identifier: about
+      name: About
+      title: About
+      url: /about
+      weight: 2
+
 # Minimal params for hugo-profile theme (can be expanded later)
 params:
   title: "Return To Her"
-  description: "A personal blog and portfolio."
+  description: "A personal blog about returning to what matters most."
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Your Name"
+    subtitle: "I write about what matters"
+    content: "Welcome to my journey of rediscovering joy, peace, and fulfillment."
+    image: /images/hero.svg
+    button:
+      enable: true
+      name: "Read the Blog"
+      url: "/posts"
+      download: false
+      newPage: false
+  about:
+    enable: true
+    title: "About"
+    image: "/images/me.png"
+    content: "This blog is a personal journey of returning to what truly matters in life..."
   # Add more params as needed
