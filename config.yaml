@@ -27,6 +27,8 @@ params:
     subtitle: "I write about what matters"
     content: "Welcome to my journey of rediscovering joy, peace, and fulfillment."
     image: /images/hero.svg
+    bottomImage:
+      enable: true
     button:
       enable: true
       name: "Read the Blog"
