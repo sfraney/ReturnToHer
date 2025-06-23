@@ -162,10 +162,10 @@ params:
         - icon: /fav.png
           url: "https://sfraney.github.io/ReturnToHer"
 
-  # About
-  about:
+  # Introduction
+  intro:
     enable: true
-    title: "About"
+    title: "Introduction"
     image: "/images/me.png"
     content: "This blog is a personal journey of returning to what truly matters in life..."
     skills:
