@@ -1,0 +1,11 @@
+baseURL: "https://sfraney.github.io/ReturnToHer/"
+languageCode: "en-us"
+title: "Return To Her"
+theme: "hugo-profile"
+publishDir: "docs"
+
+# Minimal params for hugo-profile theme (can be expanded later)
+params:
+  title: "Return To Her"
+  description: "A personal blog and portfolio."
+  # Add more params as needed
