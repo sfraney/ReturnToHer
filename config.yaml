@@ -1,4 +1,5 @@
 baseURL: "https://sfraney.github.io/ReturnToHer/"
+canonifyURLs: true
 languageCode: "en-us"
 title: "Return To Her"
 theme: hugo-profile
@@ -359,7 +360,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
     btnName: Mail me
     btnLink: mailto:sher@returntoher.co
     # formspree:
