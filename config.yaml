@@ -163,7 +163,7 @@ params:
           url: "https://sfraney.github.io/ReturnToHer"
 
   # Introduction
-  intro:
+  about:
     enable: true
     title: "Introduction"
     image: "/images/me.png"
